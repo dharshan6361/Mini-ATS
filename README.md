@@ -2,7 +2,7 @@
 
 A small applicant tracking system I built for the EarlyJobs internship assignment. You can add candidates, move them through hiring stages, search and filter them, and see a few numbers on a dashboard.
 
-Live app: _add link_
+Live app: <https://mini-ats-gk5w.onrender.com>
 Demo video: _add link_
 
 The app is hosted on Render's free plan, so if nobody has opened it for a while, the first load can take up to a minute. Data also resets whenever it restarts, and the sample candidates come back automatically.
