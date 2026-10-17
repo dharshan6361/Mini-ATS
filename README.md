@@ -74,9 +74,7 @@ Logins for recruiters, resume uploads, pagination, and moving to PostgreSQL so t
 ```
 server/   index.js (routes), db.js (schema), seed.js (sample data), test.js
 client/   src/App.jsx, src/api.js, src/components/
-```
-
-## Deploying
+`
 
 ## Deploying
 
